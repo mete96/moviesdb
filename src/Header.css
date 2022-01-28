@@ -1,0 +1,61 @@
+.navmenu {
+  background-color: #fa0050;
+  position: fixed;
+  top: 0px;
+  height: 80px;
+  width: 100%;
+}
+
+.logo {
+  display: inline-block;
+  position: absolute;
+  top: 25px;
+  left: 373px;
+  width: 159px;
+  color: #fff;
+}
+
+.select-container {
+  margin-top: 1.2rem;
+  margin-right: 0rem;
+  margin-left: 13rem;
+  display: flex;
+  justify-content: center;
+}
+
+#iller {
+  padding: 10px 35px;
+  border-radius: 14px;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.arama {
+  margin-left: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+#texto {
+  padding: 10px 120px;
+  border-radius: 14px;
+  border: none;
+  font-size: 18px;
+}
+
+#ikon {
+  background-color: #f6a31c;
+  font-size: 0px;
+  position: relative;
+  right: 15px;
+  height: 50px;
+  width: 110px;
+  color: #000;
+}
+
+.helal {
+  margin-top: 7rem;
+  display: flex;
+  justify-content: center;
+}
